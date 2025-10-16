@@ -15,13 +15,7 @@ body {
     overflow-x: hidden;
 }
 
-/* Background pattern */
-.pattern-bg {
-    position: absolute;
-    inset: 0;
-    background-image: url('assets/pattern-bg.svg');
-    opacity: 0.3;
-}
+
 
 /* Container */
 .container {
